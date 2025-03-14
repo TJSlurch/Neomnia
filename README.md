@@ -1,6 +1,7 @@
 # Neomnia
 
-[![Game Trailer](https://img.youtube.com/vi/00bCYsJe_Jg/0.jpg)](https://www.youtube.com/watch?v=00bCYsJe_Jg)
+Video Showcase:
+[![Showcase](https://img.youtube.com/vi/00bCYsJe_Jg/0.jpg)](https://www.youtube.com/watch?v=00bCYsJe_Jg)
 
 My submission for the 2024 Bath University GameJam!
 
