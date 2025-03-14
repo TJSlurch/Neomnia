@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - red
+  - orange
+  - yellow
+  - green
+  - blue
+  - pink
+  - white
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Glow
+  - Player
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Lights
+    uniqueID: 2642805001
+    locked: 0
+  - name: Background
+    uniqueID: 3357092201
+    locked: 0
+  - name: Stars
+    uniqueID: 180115017
+    locked: 0
+  - name: Walls
+    uniqueID: 873504525
+    locked: 0
+  - name: Player
+    uniqueID: 2445788481
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
